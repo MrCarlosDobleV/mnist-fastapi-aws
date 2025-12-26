@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model artifacts
+mnist_model.pt
+
+# Dataset
+data/
+
+# OS files
+.DS_Store
