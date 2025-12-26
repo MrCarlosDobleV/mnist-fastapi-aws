@@ -3,3 +3,4 @@ data/
 __pycache__/
 client.py
 train.py
+KeyPairMnist-Api.pem

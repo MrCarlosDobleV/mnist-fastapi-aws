@@ -13,3 +13,6 @@ data/
 
 # OS files
 .DS_Store
+
+# Key to the EC2 instance
+KeyPairMnist-Api.pem
