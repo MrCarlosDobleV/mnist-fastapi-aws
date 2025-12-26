@@ -22,3 +22,5 @@ mnist-aws-classifier/
 ├── .dockerignore
 ├── .gitignore
 └── README.md
+
+[Mnist-API.webm](https://github.com/user-attachments/assets/1bbf810f-bca7-4254-8e0f-ea0f908b801c)
