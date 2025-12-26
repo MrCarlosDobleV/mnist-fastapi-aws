@@ -39,3 +39,8 @@ def predict(data: ImageInput):
         "prediction": int(prediction.item()),
         "confidence": float(confidence.item())
     }
+
+
+@app.get("/health")
+def health():
+    return {"status": "ok"}
