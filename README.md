@@ -1,4 +1,4 @@
-# MNIST AWS Classifier
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/1c335839-17f0-49c5-bee0-d292ae9f29a4" /># MNIST AWS Classifier
 
 End-to-end MNIST digit classification project designed for deployment on **AWS Free Tier**.
 
@@ -9,6 +9,12 @@ The project follows a simple and production-oriented workflow:
 - Deployable on AWS EC2 (t2.micro)
 
 ---
+
+## Demo video:
+A short video demonstrating how a Python client sends an MNIST image to the deployed FastAPI endpoint on AWS EC2 and receives the predicted digit along with the confidence score.
+
+[Mnist-API.webm](https://github.com/user-attachments/assets/548768cc-c0f6-4ae0-90c4-5c0ddb63806d)
+
 
 ## Project Structure
 
@@ -23,4 +29,4 @@ mnist-aws-classifier/
 ├── .gitignore
 └── README.md
 
-[Mnist-API.webm](https://github.com/user-attachments/assets/1bbf810f-bca7-4254-8e0f-ea0f908b801c)
+
