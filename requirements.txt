@@ -1,0 +1,8 @@
+torch
+torchvision
+fastapi
+uvicorn
+numpy
+requests
+matplotlib
+pillow
