@@ -17,5 +17,7 @@ mnist-aws-classifier/
 ├── train.py          # Model training script
 ├── api.py            # FastAPI inference service
 ├── mnist_model.pt    # Trained model (generated locally)
+├── requirements.txt  # Package requirements
+├── .dockerignore
 ├── .gitignore
 └── README.md
