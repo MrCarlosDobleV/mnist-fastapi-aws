@@ -1,4 +1,4 @@
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/1c335839-17f0-49c5-bee0-d292ae9f29a4" /># MNIST AWS Classifier
+# MNIST AWS Classifier
 
 End-to-end MNIST digit classification project designed for deployment on **AWS Free Tier**.
 
