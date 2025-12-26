@@ -6,7 +6,7 @@ The project follows a simple and production-oriented workflow:
 - Train a neural network **locally**
 - Save the trained model
 - Serve predictions through a **FastAPI** inference service
-- Deployable on AWS EC2 (t2.micro)
+- Deployable on AWS EC2 (t3.micro)
 
 ---
 
