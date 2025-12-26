@@ -3,7 +3,7 @@ import torch
 import matplotlib.pyplot as plt
 from torchvision import datasets, transforms
 
-API_URL = "http://127.0.0.1:8000/predict"
+API_URL = "http://3.129.92.18:8000/predict" # Replace with the IP of your deployed EC2 instance
 
 def main():
     print("[1] Starting client")
@@ -22,7 +22,7 @@ def main():
     )
 
     # Pick ONE sample
-    index = 10
+    index = 5
     print(f"[4] Loading sample index {index}")
     image, true_label = test_dataset[index]
 
