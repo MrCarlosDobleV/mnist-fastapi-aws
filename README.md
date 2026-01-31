@@ -1,6 +1,6 @@
 # MNIST AWS Classifier
 
-End-to-end MNIST digit classification project designed for deployment on **AWS Free Tier**.
+End-to-end MNIST digit classification project designed for deployment on **AWS**.
 
 The project follows a simple and production-oriented workflow:
 - Train a neural network **locally**
